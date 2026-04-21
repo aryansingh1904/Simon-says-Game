@@ -145,8 +145,8 @@ Contributions are welcome! Here's how to get started:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@aryansingh1904](https://github.com/aryansingh1904)
-- LinkedIn: [Aryan Singh](https://linkedin.com/in/aryan-singh-258145402)
+- GitHub: [https://github.com/aryansingh1904]
+- LinkedIn: [https://linkedin.com/in/aryan-singh-258145402]
 
 ---
 
